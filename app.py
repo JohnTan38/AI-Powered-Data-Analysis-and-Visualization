@@ -9,7 +9,7 @@ import plotly.express as px
 import openai
 
 # OpenAI API anahtarı (değiştirin)
-openai.api_key = "sk-2AxvhgpNGs8QuWreYcxtJ0oZEcUJVgXgslnbgvIVAvT3BlbkFJYLeciXI-FsCtOsImqs0kuw6BP4m70on6aK4p1pS00A"
+openai.api_key = "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"
 
 # Flask sunucusu
 server = Flask(__name__)
